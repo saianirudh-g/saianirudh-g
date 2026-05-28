@@ -103,6 +103,14 @@
 
 ---
 
+# ☕ Support My Work
+
+If you like my projects and want to support my work, you can buy me a coffee here:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/saianirudh)
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
