@@ -76,6 +76,14 @@
 
 ---
 
+## 🌟 Inspiration
+
+I am inspired and guided by my professor:
+
+[![Professor](https://img.shields.io/badge/My%20Inspiration-Professor-blue?style=for-the-badge)](https://srsapireddy.github.io/about/)
+
+---
+
 # 📈 GitHub Stats
 
 <p align="center">
