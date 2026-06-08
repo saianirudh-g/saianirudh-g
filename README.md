@@ -2,8 +2,13 @@
 <!--               SAI ANIRUDH GODAVARTHI - README             -->
 <!-- ========================================================= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7C3AED&height=180&section=header&text=%20Sai%20Anirudh%20Godavarthi&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+
+<h1 align="center">
+  <img src="https://img.shields.io/badge/SAI%20ANIRUDH%20GODAVARTHI-1F2937?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white&labelColor=0A0A0A&color=4C1D95" />
+</h1>
+
 <p align="center">
-  <img src="https://github.com/saianirudh-g/saianirudh-g/blob/main/hologram-name.gif" width="700" />
+  <img src="https://github.com/saianirudh-g/saianirudh-g/blob/main/metal-bar.gif" width="500" />
 </p>
 
 <!-- ✨ Typing Effect (Restored) -->
