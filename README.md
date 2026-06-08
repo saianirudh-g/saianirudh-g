@@ -26,15 +26,7 @@
 ---
 
 <!-- 🌀 Dynamic 3D Contribution Galaxy -->
-<h2 align="center">🌌 My 3D Contribution Galaxy</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saianirudh-g/saianirudh-g/output/github-contribution-grid-snake-dark.svg" width="900" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/saianirudh-g/saianirudh-g/blob/main/3d-galaxy.gif" width="600" />
-</p>
+<h2 align="center">🌌 My Moto</h2>
 
 <p align="center">
   <i>“Every contribution is a star — together they form my engineering universe.”</i>
