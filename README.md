@@ -1,15 +1,20 @@
 <!-- ========================================================= -->
-<!--        SAI ANIRUDH GODAVARTHI — NEXT‑GEN README UI        -->
+<!--        FUTURISTIC HEADER + TYPING EFFECT + 3D GRAPH       -->
 <!-- ========================================================= -->
 
-<!-- 🔥 Futuristic Banner -->
+<!-- 🌌 Floating Neon Frame -->
 <p align="center">
-  <img src="https://github.com/saianirudh-g/saianirudh-g/blob/main/neo-banner.gif" width="100%" />
+  <img src="https://github.com/saianirudh-g/saianirudh-g/blob/main/neon-frame.gif" width="100%" />
 </p>
 
 <h1 align="center">⚡ Sai Anirudh Godavarthi</h1>
-<h3 align="center">Embedded Systems • Firmware • VLSI • RF • Automation</h3>
 
+<!-- ✨ Typing Effect (Restored) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00E8FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Firmware+Developer+%7C+Automation+Engineer;VLSI+%7C+ASIC+Physical+Design+%7C+RF+Systems;6G+%7C+THz+Communication+Researcher;Engineering+the+Future+with+Precision" />
+</p>
+
+<!-- 🌐 Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sai-anirudh-godavarthi-710b16273/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
@@ -20,6 +25,23 @@
   <a href="mailto:saianirudh.kefp2@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+<!-- 🌀 Dynamic 3D Contribution Galaxy -->
+<h2 align="center">🌌 My 3D Contribution Galaxy</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saianirudh-g/saianirudh-g/output/github-contribution-grid-snake-dark.svg" width="900" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/saianirudh-g/saianirudh-g/blob/main/3d-galaxy.gif" width="600" />
+</p>
+
+<p align="center">
+  <i>“Every contribution is a star — together they form my engineering universe.”</i>
 </p>
 
 ---
