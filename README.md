@@ -1,7 +1,7 @@
 <!-- ========================================================= -->
 <!--               SAI ANIRUDH GODAVARTHI - README             -->
 <!-- ========================================================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7C3AED&height=180&section=header&text=%20Sai%20Anirudh%20Godavarthi&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7C3AED&height=180&section=header&text=I'm%20Sai%20Anirudh%20Godavarthi&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 <!-- ✨ Typing Effect (Restored) -->
 <p align="center">
