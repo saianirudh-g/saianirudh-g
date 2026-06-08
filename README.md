@@ -1,13 +1,9 @@
 <!-- ========================================================= -->
-<!--        FUTURISTIC HEADER + TYPING EFFECT + 3D GRAPH       -->
+<!--               SAI ANIRUDH GODAVARTHI - README             -->
 <!-- ========================================================= -->
 
-<!-- 🌌 Floating Neon Frame -->
-<p align="center">
-  <img src="https://github.com/saianirudh-g/saianirudh-g/blob/main/neon-frame.gif" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7C3AED&height=180&section=header&text=%20Sai%20Anirudh%20Godavarthi&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<h1 align="center">⚡ Sai Anirudh Godavarthi</h1>
 
 <!-- ✨ Typing Effect (Restored) -->
 <p align="center">
