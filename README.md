@@ -1,11 +1,11 @@
 <!-- ========================================================= -->
-<!--               SAI ANIRUDH GODAVARTHI - README             -->
+<!--        SAI ANIRUDH GODAVARTHI — FUTURISTIC README         -->
 <!-- ========================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7C3AED&height=180&section=header&text=Sai%20Anirudh%20Godavarthi&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C3AED&height=180&section=header&text=Sai%20Anirudh%20Godavarthi&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00E8FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Firmware+Developer+%7C+Automation+Engineer;VLSI+%7C+ASIC+Physical+Design+%7C+RF+Systems;6G+%7C+THz+Communication+Researcher;Building+Reliable+Systems+with+Precision" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00E8FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Firmware+Developer+%7C+Automation+Engineer;VLSI+%7C+ASIC+Physical+Design+%7C+RF+Systems;6G+%7C+THz+Communication+Researcher;Building+Intelligent+Systems+with+Precision" />
 </p>
 
 <p align="center">
@@ -22,21 +22,33 @@
 
 ---
 
-# ⚡ **About Me**
+# 🧬 **Who I Am — A Snapshot in 2026**
 
-I’m a **Master’s student in Electrical & Computer Engineering (UMKC)** with strong hands‑on experience in:
+> *“Engineering is not just solving problems — it’s designing the future before it arrives.”*
+
+I am a **Master’s student in Electrical & Computer Engineering (UMKC)** specializing in:
 
 - **Embedded Systems & Firmware Development (STM32, Embedded C)**
-- **Automation Testing (Selenium, Playwright, Cucumber BDD, TestNG)**
+- **Automation Testing (Selenium, Playwright, Cucumber, TestNG)**
 - **VLSI & ASIC Physical Design (RTL → GDSII)**
 - **RF, Antenna & Mixed‑Signal IC Design**
 - **THz Communication Systems for 6G**
 
-I bridge the worlds of **hardware, firmware, and intelligent automation**, building systems that are robust, scalable, and future‑ready.
+I work at the intersection of **hardware, firmware, and intelligent automation**, building systems that are robust, scalable, and engineered with precision.
 
 ---
 
-# 🛠️ **Tech Stack**
+# 🧠 **My Engineering Identity (Hologram Card)**
+
+<div align="center">
+  <img src="https://github.com/saianirudh-g/saianirudh-g/blob/main/hologram-card.gif" width="600" alt="Hologram Card"/>
+</div>
+
+> *A futuristic identity card that reflects your multi-domain expertise.*
+
+---
+
+# 🛠️ **Tech Stack — My Engineering Arsenal**
 
 ## 💻 Programming & Scripting
 <p>
@@ -76,10 +88,10 @@ I bridge the worlds of **hardware, firmware, and intelligent automation**, build
 
 ---
 
-# 🚀 **Highlighted Projects**
+# 🚀 **Featured Projects — Engineering That Speaks**
 
 ### 🔹 **STM32 Microcontroller Device Development (2026)**
-Embedded firmware development using STM32, timers, interrupts, and peripheral drivers.
+Firmware development using timers, interrupts, and peripheral drivers.
 
 ### 🔹 **BLE Receiver Front-End (Schematic + PCB) (2026)**
 RF front-end design for low-power BLE systems.
@@ -93,20 +105,17 @@ Logic synthesis, floorplanning, CTS, routing, and GDS export.
 ### 🔹 **6T SRAM Design (2025)**
 Schematic, butterfly curve simulation, and layout.
 
-### 🔹 **Microwave Transmission Line Characterization (2025)**
-Using handheld VNA for RF parameter extraction.
-
 ---
 
-# 🏆 **Achievements**
+# 🏆 **Awards & Recognition**
 
 - 🥇 **Dean’s International Scholarship Award (2025)**
-- ⭐ **Rising Star Award – QualiZeal (2024)**  
-- 🏅 Certifications in **Embedded C, SEL Relays, Selenium Automation, Generative AI**
+- ⭐ **Rising Star Award – QualiZeal (2024)**
+- 🎓 Certifications in **Embedded C, SEL Relays, Selenium Automation, Generative AI**
 
 ---
 
-# 📊 **GitHub Analytics**
+# 📊 **GitHub Analytics — My Engineering Footprint**
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saianirudh-g&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -127,6 +136,4 @@ Using handheld VNA for RF parameter extraction.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7C3AED&height=120&section=footer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C3AED&height=120&section=footer" />
