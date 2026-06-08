@@ -1,15 +1,9 @@
 <!-- ========================================================= -->
 <!--               SAI ANIRUDH GODAVARTHI - README             -->
 <!-- ========================================================= -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7C3AED&height=180&section=header&text=%20Sai%20Anirudh%20Godavarthi&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-
-<h1 align="center" style="font-weight:700; font-size:48px;">
-  Sai Anirudh Godavarthi
-</h1>
-
 <p align="center">
-  <img src="https://github.com/saianirudh-g/saianirudh-g/blob/main/clean-divider.svg" width="400" />
+  <img src="https://github.com/saianirudh-g/saianirudh-g/blob/main/hologram-name.gif" width="700" />
 </p>
 
 <!-- ✨ Typing Effect (Restored) -->
