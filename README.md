@@ -3,14 +3,6 @@
 <!-- ========================================================= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7C3AED&height=180&section=header&text=%20Sai%20Anirudh%20Godavarthi&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<h1 align="center">
-  <img src="https://img.shields.io/badge/SAI%20ANIRUDH%20GODAVARTHI-1F2937?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white&labelColor=0A0A0A&color=4C1D95" />
-</h1>
-
-<p align="center">
-  <img src="https://github.com/saianirudh-g/saianirudh-g/blob/main/metal-bar.gif" width="500" />
-</p>
-
 <!-- ✨ Typing Effect (Restored) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00E8FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Firmware+Developer+%7C+Automation+Engineer;VLSI+%7C+ASIC+Physical+Design+%7C+RF+Systems;6G+%7C+THz+Communication+Researcher;Engineering+the+Future+with+Precision" />
