@@ -13,11 +13,11 @@
   <a href="https://www.linkedin.com/in/sai-anirudh-godavarthi-710b16273/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+   <a href="https://umkc.joinhandshake.com/profiles/saianirudh-g">
+    <img src="https://img.shields.io/badge/Handshake-008000?style=flat-square&logo=handshake&logoColor=white" />
+  </a>
   <a href="https://saianirudh-g.github.io/web/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://umkc.joinhandshake.com/profiles/saianirudh-g">
-    <img src="https://img.shields.io/badge/Handshake-008000?style=flat-square&logo=handshake&logoColor=white" />
   </a>
   <a href="mailto:saianirudh.kefp2@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
