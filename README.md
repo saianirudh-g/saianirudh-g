@@ -24,8 +24,6 @@
   </a>
 </p>
 
-<img src="./assets/portrait.svg" alt="Live drawing portrait" width="400" />
-
 ---
 <p align="center">
   <i>“Every contribution is a star — together they form my engineering universe.”</i>
