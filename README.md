@@ -106,8 +106,8 @@ I build solutions that are **robust**, **scalable**, and **future‑ready**.
 
 # 🚀 **Featured Engineering Projects**
 
-### 🔥 **STM32 Microcontroller Device (2026)**
-Low‑level firmware development using timers, interrupts, ADC, PWM, and communication protocols.
+### 🔥 **Gaming IMU Controlled Physics Engine with fast-bit embedded systems on STM32 Board (2026)**
+Low‑level firmware development using timers, interrupts, ADC, PWM, IMU Tilt Control and i2c communication protocols.
 
 ### 🔥 **BLE Receiver Front-End (2026)**
 RF schematic + PCB design for low‑power BLE systems.
